@@ -1,0 +1,47 @@
+<svg width="80" height="80" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+ <title>btn_google_dark_normal_ios</title>
+ <desc>Created with Sketch.</desc>
+ <defs>
+  <filter id="filter-1" filterUnits="objectBoundingBox" height="200%" width="200%" y="-50%" x="-50%">
+   <feGaussianBlur stdDeviation="0.5"/>
+   <feGaussianBlur stdDeviation="0.5"/>
+  </filter>
+  <rect rx="2" height="40" width="40" y="0" x="0" id="path-2"/>
+  <rect rx="1" height="38" width="38" y="5" x="5" id="path-3"/>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="602" width="802" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g fill-rule="evenodd" fill="none" id="Google-Button">
+   <g stroke="null" id="9-PATCH"/>
+   <g stroke="null" id="btn_google_dark_normal">
+    <g stroke="null" filter="url(#filter-1)" id="button">
+     <g stroke="null" id="button-bg">
+      <use stroke="null" transform="matrix(1.974999968959139,0,0,1.9250000903735298,-2.8730518363512942,-3.6189192046990257) " id="svg_1" x="1.96104" y="2.91892" xlink:href="#path-2" fill-rule="evenodd"/>
+      <use stroke="null" transform="matrix(1.974999968959139,0,0,1.9250000903735298,-2.8730518363512942,-3.6189192046990257) " id="svg_2" x="1.96104" y="2.91892" xlink:href="#path-2" fill="none"/>
+      <use stroke="null" transform="matrix(1.974999968959139,0,0,1.9250000903735298,-2.8730518363512942,-3.6189192046990257) " id="svg_3" x="1.96104" y="2.91892" xlink:href="#path-2" fill="none"/>
+      <use stroke="null" transform="matrix(1.974999968959139,0,0,1.9250000903735298,-2.8730518363512942,-3.6189192046990257) " id="svg_4" x="1.96104" y="2.91892" xlink:href="#path-2" fill="none"/>
+     </g>
+    </g>
+    <g stroke="null" id="button-bg-copy">
+     <use stroke="null" transform="matrix(1.974999968959139,0,0,1.9250000903735298,-2.8730518363512942,-3.6189192046990257) " id="svg_5" x="-2.03896" y="-1.08108" xlink:href="#path-3" fill-rule="evenodd"/>
+     <use stroke="null" transform="matrix(1.974999968959139,0,0,1.9250000903735298,-2.8730518363512942,-3.6189192046990257) " id="svg_6" x="-2.03896" y="-1.08108" xlink:href="#path-3" fill="none"/>
+     <use stroke="null" transform="matrix(1.974999968959139,0,0,1.9250000903735298,-2.8730518363512942,-3.6189192046990257) " id="svg_7" x="-2.03896" y="-1.08108" xlink:href="#path-3" fill="none"/>
+     <use stroke="null" transform="matrix(1.974999968959139,0,0,1.9250000903735298,-2.8730518363512942,-3.6189192046990257) " id="svg_8" x="-2.03896" y="-1.08108" xlink:href="#path-3" fill="none"/>
+    </g>
+    <g stroke="null" id="logo_googleg_48dp">
+     <path stroke="null" fill="#4285F4" id="Shape" d="m57.564,40.89376c0,-1.22852 -0.11311,-2.40975 -0.32319,-3.54375l-16.74081,0l0,6.70162l9.56619,0c-0.41206,2.16563 -1.66439,4.0005 -3.54692,5.22899l0,4.34702l5.74454,0c3.36109,-3.01613 5.30019,-7.45764 5.30019,-12.73388l0,0z"/>
+     <path stroke="null" fill="#34A853" id="Shape" d="m40.5,57.825c4.79925,0 8.82286,-1.55138 11.76381,-4.19737l-5.74454,-4.34702c-1.59167,1.0395 -3.62772,1.65375 -6.01927,1.65375c-4.62958,0 -8.54816,-3.04762 -9.94592,-7.14262l-5.93847,0l0,4.48875c2.9248,5.66212 8.93599,9.5445 15.88439,9.5445l0,0z"/>
+     <path stroke="null" fill="#FBBC05" id="Shape" d="m30.55408,43.79175c-0.3555,-1.0395 -0.55748,-2.14988 -0.55748,-3.29175c0,-1.14187 0.20198,-2.25225 0.55748,-3.29175l0,-4.48875l-5.93847,0c-1.20384,2.33888 -1.89061,4.98488 -1.89061,7.7805c0,2.79562 0.68677,5.44163 1.89061,7.7805l5.93847,-4.48875l0,0z"/>
+     <path stroke="null" fill="#EA4335" id="Shape" d="m40.5,30.06564c2.60969,0 4.95277,0.87412 6.79489,2.59086l5.09821,-4.96912c-3.07831,-2.79562 -7.10192,-4.51237 -11.89309,-4.51237c-6.94841,0 -12.95959,3.88238 -15.88439,9.5445l5.93847,4.48875c1.39777,-4.09499 5.31634,-7.14262 9.94592,-7.14262l0,0z"/>
+     <path stroke="null" id="Shape" d="m22.725,23.175l35.55,0l0,34.65l-35.55,0l0,-34.65z"/>
+    </g>
+    <g stroke="null" id="handles_square"/>
+   </g>
+  </g>
+ </g>
+</svg>
